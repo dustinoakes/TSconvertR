@@ -1,0 +1,16 @@
+Package: TSconvertR
+Type: Package
+Title: Quick Functions for Time Series Conversion and Analysis
+Version: 1.0.0
+Author: Dustin Oakes
+Maintainer: Dustin Oakes <dustinoakes@g.ucla.edu>
+Description: Converts data to time series format and performs analysis all in one step.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    stats,
+    forecast,
+    ggplot2,
+    strucchange
+RoxygenNote: 7.1.1
