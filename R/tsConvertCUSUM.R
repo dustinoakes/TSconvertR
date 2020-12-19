@@ -1,5 +1,7 @@
 #' tsConvertCUSUM
 #'
+#' @description Returns CUSUM plot of an auto.arima fitted model of the data
+#'
 #' @param data Data for analysis
 #'
 #' @return CUSUM plot of an auto.arima fitted model of the data

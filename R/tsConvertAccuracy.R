@@ -1,5 +1,7 @@
 #' tsConvertAccuracy
 #'
+#' @description Returns accuracy statistics of an auto.arima fitted model of the data
+#'
 #' @param data Data for analysis
 #'
 #' @return Accuracy of an auto.arima fitted model

@@ -13,7 +13,7 @@ tsConvertPACF(data = rnorm(30, 10, 2))
 PACF of time series of the data
 }
 \description{
-tsConvertPACF
+Returns PACF of time series of the data
 }
 \examples{
 tsConvertPACF

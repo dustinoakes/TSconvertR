@@ -13,7 +13,7 @@ tsConvertACF(data = rnorm(30, 10, 2))
 ACF of time series of the data
 }
 \description{
-tsConvertACF
+Returns ACF of time series of the data
 }
 \examples{
 tsConvertACF()

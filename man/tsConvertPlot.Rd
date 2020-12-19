@@ -13,7 +13,7 @@ tsConvertPlot(data = rnorm(30, 10, 2))
 A plot of the data in time series format
 }
 \description{
-tsConvertPlot
+Creates a time series plot of the data
 }
 \examples{
 tsConvertPlot()

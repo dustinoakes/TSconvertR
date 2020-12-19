@@ -13,7 +13,7 @@ tsConvertCUSUM(data = rnorm(30, 10, 2))
 CUSUM plot of an auto.arima fitted model of the data
 }
 \description{
-tsConvertCUSUM
+Returns CUSUM plot of an auto.arima fitted model of the data
 }
 \examples{
 tsConvertCUSUM()

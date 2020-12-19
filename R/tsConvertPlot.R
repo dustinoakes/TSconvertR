@@ -1,5 +1,7 @@
 #' tsConvertPlot
 #'
+#' @description Creates a time series plot of the data
+#'
 #' @param data Data for analysis
 #'
 #' @return A plot of the data in time series format

@@ -1,5 +1,7 @@
 #' tsConvertPACF
 #'
+#' @description Returns PACF of time series of the data
+#'
 #' @param data Data for analysis
 #'
 #' @return PACF of time series of the data

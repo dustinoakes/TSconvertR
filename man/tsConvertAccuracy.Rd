@@ -13,7 +13,7 @@ tsConvertAccuracy(data = rnorm(30, 10, 2))
 Accuracy of an auto.arima fitted model
 }
 \description{
-tsConvertAccuracy
+Returns accuracy statistics of an auto.arima fitted model of the data
 }
 \examples{
 tsConvertAccuracy()

@@ -1,5 +1,7 @@
 #' tsConvertACF
 #'
+#' @description Returns ACF of time series of the data
+#'
 #' @param data Data for analysis
 #'
 #' @return ACF of time series of the data
